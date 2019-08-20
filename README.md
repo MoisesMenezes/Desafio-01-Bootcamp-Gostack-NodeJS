@@ -1,6 +1,6 @@
 # Desafio 01: Módulo do Bootcamp Gostack https://rocketseat.com.br/bootcamp
 
-## Conceitos de JS
+## Conceitos de NodeJS
 
 - Criar uma aplicação do zero utilizando Express.
 
